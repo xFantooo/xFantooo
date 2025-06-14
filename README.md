@@ -1,37 +1,33 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xfantooo/xfantooo/main/assets/banner-github.png" alt="Fantooo - Web Dev en devenir"/>
+  <img src="https://raw.githubusercontent.com/xfantooo/xfantooo/main/assets/banner-github.png" alt="Fantooo - Développeur Web Junior"/>
 </p>
 
 <h1 align="center">Salut 👋, moi c'est Fantooo</h1>
-
+<h3 align="center">Développeur Web Junior passionné par la création d'applications modernes et intuitives</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Étudiant%20Actif-brightgreen?style=for-the-badge" />
+  <strong>🚀 Spécialisé en PHP, JavaScript & Electron | Disponible pour stage 2025</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Développeur%20Junior-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Disponible-Stage%202025-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Niveau-Junior-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-PHP%20•%20JS%20•%20MySQL-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Remote-Friendly-purple?style=for-the-badge" />
 </p>
 
 ---
 
-### 🚀 À propos
-- 🌱 J'apprends actuellement : **HTML, CSS, JavaScript, PHP, MySQL, Docker , React , Gsap**
-- 🧠 Je progresse par la pratique avec des projets concrets
-- 🎯 Actuellement en train de : **Développer un portfolio moderne et explorer React.js**
-- 📫 Contact : **sulyvane@hotmail.fr**
-- 🐸 Fun fact : **Oui, je mange des grenouilles**
+## 💼 Disponibilité & Opportunités
 
----
+<div align="center">
 
-### 💼 Disponibilité & Opportunités
+### 🎯 Actuellement ouvert pour :
+**🎓 Stage développeur web** • **💼 Missions freelance** • **🤝 Collaborations** • **📚 Mentorat junior**
 
-#### 🚀 Actuellement ouvert pour :
-- 🎓 **Stage développeur web** - 2-6 mois (été/automne 2025)
-- 💼 **Missions freelance** - Projets web courts/moyens
-- 🤝 **Collaborations** - Projets open source ou étudiants
-- 📚 **Mentorat junior** - Partage d'expérience avec débutants
+</div>
 
-#### 🎯 Recherche spécifiquement :
+#### 🚀 Recherche spécifiquement :
 - **Environnement** : Startup, agence web, ESN tech-friendly
 - **Stack souhaitée** : PHP/MySQL, JavaScript moderne, Docker
 - **Type de projets** : Applications web, e-commerce, outils internes
@@ -49,7 +45,39 @@
 
 ---
 
-### 🧩 Projets récents
+## 🚀 À propos
+- 🌱 J'apprends actuellement : **HTML, CSS, JavaScript, PHP, MySQL, Docker, React, Gsap**
+- 🧠 Je progresse par la pratique avec des projets concrets
+- 🎯 Actuellement en train de : **Développer un portfolio moderne et explorer React.js**
+- 📫 Contact : **sulyvane@hotmail.fr**
+- 🐸 Fun fact : **Oui, je mange des grenouilles**
+
+---
+
+## 🧠 Soft Skills & Qualités Humaines
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯-Autonome-success?style=flat-square&labelColor=2D3748&color=38A169" />
+  <img src="https://img.shields.io/badge/🚀-Curieux-success?style=flat-square&labelColor=2D3748&color=3182CE" />
+  <img src="https://img.shields.io/badge/🤝-Team%20Player-success?style=flat-square&labelColor=2D3748&color=805AD5" />
+  <img src="https://img.shields.io/badge/💡-Problem%20Solver-success?style=flat-square&labelColor=2D3748&color=D69E2E" />
+</p>
+
+#### 🎯 Mes points forts
+- **🔍 Apprenant rapide** : Capacité à assimiler de nouvelles technologies rapidement
+- **🧩 Résolution de problèmes** : Approche méthodique pour déboguer et optimiser
+- **📚 Autodidacte** : Motivation intrinsèque pour l'apprentissage continu
+- **🤝 Collaboration** : Excellente communication et esprit d'équipe
+- **⚡ Adaptabilité** : Flexibilité face aux changements et nouveaux défis
+- **🎨 Créativité** : Vision utilisateur et souci du détail dans l'UX
+
+#### 💬 Langues
+- **🇫🇷 Français** : Natif
+- **🇬🇧 Anglais** : Technique (lecture documentation, GitHub)
+
+---
+
+## 🧩 Projets récents
 - 🔧 **[Php-IniEditor (Electron)](https://github.com/xFantooo/Php-IniEditor-My-first-App)** – Application graphique pour éditer `php.ini`
   - *Technologies : Electron, Node.js, HTML/CSS*
   - *Défi relevé : Première application desktop avec interface graphique*
@@ -64,89 +92,7 @@
 
 ---
 
-### 📈 Progression & Statistiques
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfantooo&layout=compact&theme=tokyonight&locale=fr&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xfantooo&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xfantooo&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</p>
-
-#### 🎯 Métriques 2025
-- **Projets actifs** : 4 repositories publics
-- **Langages maîtrisés** : 6 technologies
-- **Contributions** : Objectif 365 commits en 2025
-- **Apprentissage** : 2-3h par jour en moyenne
-
----
-
-### 🎯 Objectifs pour 2025
-- ✅ **Déployer ma première app Electron** *(Terminé - Php-IniEditor)*
-- 🔄 **Refaire mon portfolio personnel** *(En cours)*
-- 🐘 **Approfondir PHP orienté objet + MySQL** *(Terminé)*
-- ⚛️ **Explorer React.js et les APIs REST** *(En cours)*
-- 🌐 **Mettre en ligne mon site pro** *(Planifié - Juillet)*
-- 🤝 **Contribuer à un projet open source** *(Planifié - Automne)*
-- 💼 **Décrocher un stage développeur** *(Recherche active)*
-
----
-
-### 🎓 Formation & Apprentissage
-- 📚 **Autodidacte** - Développement web (2024-2025)
-- 🎯 **Projets pratiques** - Applications Electron, PHP, MySQL
-- 📺 **Ressources principales** :
-  - Documentation officielle (MDN, PHP.net)
-  - Chaînes YouTube spécialisées
-  - Communautés Discord/Reddit dev
-  - Projets GitHub open source
-- 🏆 **Certifications visées** : 
-  - PHP Symfony (fin 2025)
-  - JavaScript ES6+ avancé
-  - Certification Docker
-
----
-
-### 🧭 Timeline d'apprentissage
-
-| Période         | Sujet                           | Statut      | Projets associés |
-|----------------|----------------------------------|-------------|------------------|
-| Jan-Fév 2025   | HTML / CSS / JavaScript         | ✅ Acquis   | Sites statiques  |
-| Mar-Avr 2025   | Electron / Node.js              | ✅ Acquis   | Php-IniEditor    |
-| Mai-Juin 2025  | PHP orienté objet + MySQL       | ✅ Acquis   | App Bancaire     |
-| Juil-Août 2025 | React.js + API REST             | 🔄 En cours | Portfolio React  |
-| Sept 2025      | Portfolio professionnel         | 🔜 Planifié | Site perso       |
-| Oct-Nov 2025   | Contribution open source        | 🔜 Planifié | Projets GitHub   |
-| Déc 2025       | Projets clients / stages        | 🎯 Objectif | Expérience pro   |
-
----
-
-### 🌐 Me retrouver
-<p align="left">
-  <a href="https://fb.com/sulyvane.barra" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" />
-  </a>
-  <a href="https://www.youtube.com/c/fantooo" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" />
-  </a>
-  <a href="mailto:sulyvane@hotmail.fr">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" width="40" height="40" />
-  </a>
-</p>
-
-**Contact professionnel :**
-- 📧 **Email** : sulyvane@hotmail.fr
-- 📱 **Réponse** : < 24h en semaine
-- 🌍 **Localisation** : Hauts-de-France, France
-
----
-
-### 🛠️ Compétences & Outils
+## 🛠️ Compétences & Outils
 
 #### Languages & Technologies
 <p align="left">
@@ -177,25 +123,87 @@
 
 ---
 
-### 🏆 Trophées & Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xfantooo&theme=onedark&margin-w=15&margin-h=15&column=4" />
-</p>
+## 🧭 Parcours d'Apprentissage 2025
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>🎯 Acquis</strong></td>
+    <td align="center"><strong>🔄 En cours</strong></td>
+    <td align="center"><strong>🚀 Prochaines étapes</strong></td>
+  </tr>
+  <tr>
+    <td>
+      ✅ HTML/CSS/JS<br/>
+      ✅ PHP Orienté Objet<br/>
+      ✅ MySQL & Docker<br/>
+      ✅ Electron/Node.js
+    </td>
+    <td>
+      🔄 React.js<br/>
+      🔄 API REST<br/>
+      🔄 Portfolio moderne<br/>
+      🔄 GSAP Animations
+    </td>
+    <td>
+      🎯 Symfony Framework<br/>
+      🎯 Contribution Open Source<br/>
+      🎯 Certifications<br/>
+      🎯 Stage développeur
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xfantooo&show_icons=true&theme=tokyonight&locale=fr&hide_border=true&bg_color=0D1117" />
-</p>
+## 📊 Statistiques & Activité GitHub
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xfantooo&theme=tokyonight" />
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=xfantooo&show_icons=true&theme=tokyonight&locale=fr&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xfantooo&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfantooo&layout=compact&theme=tokyonight&locale=fr&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xfantooo&theme=onedark&margin-w=15&margin-h=15&column=3&row=2" width="48%" />
+</div>
+
+#### 🎯 Objectifs 2025
+- **📈 Contributions** : 365+ commits
+- **🚀 Projets** : 3 applications complètes
+- **📚 Technologies** : +5 nouvelles compétences
+- **🤝 Collaborations** : 2+ projets open source
 
 ---
 
-### 🎨 Projets à venir
+## 🎯 Objectifs pour 2025
+- ✅ **Déployer ma première app Electron** *(Terminé - Php-IniEditor)*
+- 🔄 **Refaire mon portfolio personnel** *(En cours)*
+- 🐘 **Approfondir PHP orienté objet + MySQL** *(Terminé)*
+- ⚛️ **Explorer React.js et les APIs REST** *(En cours)*
+- 🌐 **Mettre en ligne mon site pro** *(Planifié - Juillet)*
+- 🤝 **Contribuer à un projet open source** *(Planifié - Automne)*
+- 💼 **Décrocher un stage développeur** *(Recherche active)*
+
+---
+
+## 🎓 Formation & Apprentissage
+- 📚 **Autodidacte** - Développement web (2024-2025)
+- 🎯 **Projets pratiques** - Applications Electron, PHP, MySQL
+- 📺 **Ressources principales** :
+  - Documentation officielle (MDN, PHP.net)
+  - Chaînes YouTube spécialisées  
+  - Communautés Discord/Reddit dev
+  - Projets GitHub open source
+- 🏆 **Certifications visées** : 
+  - PHP Symfony (fin 2025)
+  - JavaScript ES6+ avancé
+  - Certification Docker
+
+---
+
+## 🎨 Projets à venir
 - 🚀 **Portfolio React/Gsap** - Site personnel moderne avec animations
 - 🛒 **E-commerce PHP** - Boutique en ligne complète
 - 🤖 **Bot Discord** - Modération et utilitaires
@@ -203,16 +211,72 @@
 
 ---
 
+## 🤝 Prêt à collaborer ?
+
+<div align="center">
+
+### 💼 Recherche activement un stage développeur web
+**Période :** Été/Automne 2025 | **Durée :** 2-6 mois | **Format :** Présentiel ou Remote
+
+<p>
+  <a href="mailto:sulyvane@hotmail.fr?subject=Opportunité%20Stage%20Développeur&body=Bonjour%20Fantooo,%0D%0A%0D%0AJe%20souhaite%20discuter%20d'une%20opportunité...">
+    <img src="https://img.shields.io/badge/📧%20Me%20contacter-Disponible%20sous%2024h-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://fb.com/sulyvane.barra">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/fantooo">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+### 📅 Disponibilités
+- **Entretiens** : Disponible immédiatement
+- **Réponse email** : < 24h en semaine
+- **Réunions** : Flexibles selon vos créneaux
+- **Démarrage** : À partir de juillet 2025
+
+### 🎯 Ce que je recherche
+- **Environnement** : Startup innovante, agence web dynamique, ESN tech
+- **Missions** : Développement web, applications métier, e-commerce
+- **Stack** : PHP/Symfony, JavaScript/React, MySQL, Docker
+- **Équipe** : Mentoring, collaboration, apprentissage continu
+
+### 🌐 Me retrouver
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xfantooo&label=Vues%20du%20profil&color=brightgreen&style=flat" alt="Vues du profil" />
+  <a href="https://fb.com/sulyvane.barra" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" />
+  </a>
+  <a href="https://www.youtube.com/c/fantooo" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" />
+  </a>
+  <a href="mailto:sulyvane@hotmail.fr">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" width="40" height="40" />
+  </a>
+</p>
+
+**Contact professionnel :**
+- 📧 **Email** : sulyvane@hotmail.fr
+- 📱 **Réponse** : < 24h en semaine
+- 🌍 **Localisation** : Hauts-de-France, France
+
+---
+
+<p align="center">
+  <i>💡 "Passionné par le code, motivé par les défis, prêt à contribuer à vos projets !"</i>
 </p>
 
 <p align="center">
-  <i>💡 Toujours ouvert aux nouvelles opportunités et collaborations !</i>
+  <img src="https://komarev.com/ghpvc/?username=xfantooo&label=Vues%20du%20profil&color=brightgreen&style=flat" alt="Vues du profil" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xfantooo/xfantooo/main/assets/banner-github.png" alt="Fantooo - Web Dev en devenir"/>
+  <img src="https://raw.githubusercontent.com/xfantooo/xfantooo/main/assets/banner-github.png" alt="Fantooo - Développeur Web Junior"/>
 </p>
