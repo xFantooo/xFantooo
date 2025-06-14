@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Salut 👋, moi c'est Fantooo</h1>
-<h3 align="center">💻 Étudiant passionné en développement web – Curieux, motivé, et toujours prêt à apprendre</h3>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Étudiant%20Actif-brightgreen?style=for-the-badge" />
@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 À propos
-- 🌱 J'apprends actuellement : **HTML, CSS, JavaScript, PHP, MySQL, Docker**
+- 🌱 J'apprends actuellement : **HTML, CSS, JavaScript, PHP, MySQL, Docker , React , Gsap**
 - 🧠 Je progresse par la pratique avec des projets concrets
 - 🎯 Actuellement en train de : **Développer un portfolio moderne et explorer React.js**
 - 📫 Contact : **sulyvane@hotmail.fr**
@@ -196,7 +196,7 @@
 ---
 
 ### 🎨 Projets à venir
-- 🚀 **Portfolio React** - Site personnel moderne avec animations
+- 🚀 **Portfolio React/Gsap** - Site personnel moderne avec animations
 - 🛒 **E-commerce PHP** - Boutique en ligne complète
 - 🤖 **Bot Discord** - Modération et utilitaires
 - 📱 **App mobile** - Première incursion dans le développement mobile
